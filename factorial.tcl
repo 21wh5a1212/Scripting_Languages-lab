@@ -1,4 +1,4 @@
-et counter 5
+set counter 5
 set number $counter
 set factorial 1
 while {$counter > 0} {
